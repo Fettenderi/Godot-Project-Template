@@ -10,17 +10,10 @@ config_version=5
 
 [application]
 
-config/name="Design Patterns"
+config/name="GodotProjectBase"
 run/main_scene="res://StartScreen.tscn"
 config/features=PackedStringArray("4.2")
 config/icon="res://icon.png"
-
-[autoload]
-
-SceneManager="*res://game_objects/singletons/SceneManager.tscn"
-PlayerStats="*res://game_objects/singletons/PlayerStats.gd"
-BogoSort="*res://game_objects/singletons/BogoSort.gd"
-SavingSystem="*res://game_objects/singletons/SavingSystem.gd"
 
 [editor_plugins]
 
