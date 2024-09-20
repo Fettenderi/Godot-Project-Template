@@ -1,4 +1,4 @@
-# GodotProjectBase
+# Godot Project Template
 
 This template provides a structured starting point for your Godot game development, making it easier to organize your files, follow conventions, and get up and running quickly.
 
